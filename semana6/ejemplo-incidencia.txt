@@ -1,0 +1,5 @@
+{
+  "tipo": "Daño de alcantarillado",
+  "descripcion": "Los vecinos avisan que hay una fuga de agua rota en la esquina principal del barrio y esta inundando la calle"
+}
+

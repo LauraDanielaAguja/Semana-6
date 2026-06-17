@@ -1,0 +1,1 @@
+Cuando mandamos la peticion post con el json de Maria a la ruta de registro el servidor nos responde devolviendo exactamente un objeto con el estado de datos recibidos y los mismos datos que enviamos esto pasa porque usamos req.body para atrapar la info y luego un res.json para mandarla de vuelta y confirmar que todo llego bien
